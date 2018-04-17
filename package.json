@@ -1,0 +1,19 @@
+{
+  "name": "del-array-value",
+  "version": "1.0.0",
+  "description": "delete array value with index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyang0612/del-array-value.git"
+  },
+  "author": "liyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyang0612/del-array-value/issues"
+  },
+  "homepage": "https://github.com/liyang0612/del-array-value#readme"
+}
