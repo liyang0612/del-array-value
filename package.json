@@ -1,6 +1,6 @@
 {
   "name": "del-array-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "delete array value with index",
   "main": "index.js",
   "scripts": {
