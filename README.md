@@ -1,4 +1,4 @@
-# del-array-value [![Build Status](https://travis-ci.org/liyang0612/del-array-index.svg?branch=master)](https://travis-ci.org/liyang0612/del-array-value)
+# del-array-value [![Build Status](https://travis-ci.org/liyang0612/del-array-value.svg?branch=master)](https://travis-ci.org/liyang0612/del-array-value)
 > delete array element with index
 
 ## Install
