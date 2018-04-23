@@ -4,7 +4,7 @@
 ## Install
 
 ```
-$ npm install --save del-array-index
+$ npm install --save del-array-value
 ```
 
 
